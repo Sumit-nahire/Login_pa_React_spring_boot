@@ -88,16 +88,3 @@ spring.datasource.password=root
 spring.jpa.hibernate.ddl-auto=update
 
 
-**ScreenShot**
-1) Login Page
-<img width="1408" height="747" alt="image" src="https://github.com/user-attachments/assets/85b74eee-3328-4611-ade9-3c28b4f620c5" />
-
-2)New User
-<img width="1234" height="725" alt="image" src="https://github.com/user-attachments/assets/e2c406d8-1613-485b-b80c-fc60aa2d7e41" />
-
-3)Logout Page
-<img width="1463" height="787" alt="image" src="https://github.com/user-attachments/assets/0eb2bfe4-b4e3-426a-9434-7ba4d963dd21" />
-
-
-
-
